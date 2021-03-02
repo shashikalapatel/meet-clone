@@ -1,0 +1,3 @@
+C:\Users\Techment Technology\source\repos\MeetClone\MeetClone\obj\Debug\MeetClone.njsprojAssemblyReference.cache
+C:\Users\Techment Technology\source\repos\MeetClone\MeetClone\obj\Debug\MeetClone.njsproj.CoreCompileInputs.cache
+C:\Users\Techment Technology\source\repos\MeetClone\MeetClone\bin\Microsoft.NodejsTools.WebRole.dll
